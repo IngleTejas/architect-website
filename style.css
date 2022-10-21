@@ -37,7 +37,8 @@ html {
   position: relative;
   opacity: 0;
   visibility: hidden;
-  animation: displayCircles 1.5s;
+  animation: displayCircles 1.5
+  s;
 }
 
 @keyframes displayCircles {
